@@ -10,6 +10,7 @@ public class MybatisPlusApplication {
 
     public static void main(String[] args) {
         System.out.println("hello,git");
+        System.out.println("hello,git2");
         SpringApplication.run(MybatisPlusApplication.class, args);
     }
 
