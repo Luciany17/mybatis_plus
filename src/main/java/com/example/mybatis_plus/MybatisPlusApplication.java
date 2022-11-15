@@ -14,6 +14,7 @@ public class MybatisPlusApplication {
         System.out.println("hello,git3");
         System.out.println("hello,git4");
         System.out.println("master,git4");
+        System.out.println("hot-fix,git4");
         SpringApplication.run(MybatisPlusApplication.class, args);
     }
 
